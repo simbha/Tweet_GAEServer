@@ -1,0 +1,2 @@
+This is the GAE Server implementation for C2DM Application
+Check out Tweet_Skeleton for more information
